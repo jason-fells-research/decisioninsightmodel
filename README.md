@@ -29,7 +29,7 @@ Receive formal, structured, non-personal insights integrating recursive logic wi
 
 The Decision Insight Model Demo is a research-grade artificial intelligence developed to examine complex decision-making through a rigorous integration of recursive logic, ethical evaluation, and formal neutrality. Built for academic, institutional, and clinical contexts, it delivers structured, non-personal insights—without predictive modeling, emotive simulation, or adaptive behavioral mimicry.
 
-Rather than acting as a conversational partner or centaur-style collaborator, this model functions as a diagnostic instrument—illuminating the underlying architecture of decisions through a framework that emphasizes:
+Rather than acting as a conversational partner or Centaur-style collaborator, this model functions as a diagnostic instrument—illuminating the underlying architecture of decisions through a framework that emphasizes:
 
 - **Ethical Sovereignty**: Normative analysis without personalization or alignment bias.  
 - **Tonal Neutrality**: A consistent, affect-neutral style designed for sensitive or high-integrity environments.  
