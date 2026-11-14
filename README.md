@@ -1,50 +1,37 @@
-# Decision Insight Model Demo
+# decisioninsightmodel
 
-**Author:** S. Jason Prohaska  
-**Repository:** https://github.com/sjasonprohaska/decision-insight-model-demo  
-**Live Demo:** [Decision Insight Model on ChatGPT](https://chatgpt.com/g/g-686f0346f0fc8191bd6cbba15a77d07e-decision-insight-model-demo)
+Repository: `sjasonprohaska/decisioninsightmodel` (personal account, public).
 
-## Overview
-The Decision Insight Model Demo is a research-grade AI developed to analyze decision-making through recursive reasoning and ethical frameworks. It generates structured, non-personal insights aligned with institutional, academic, or clinical analysis contexts, with a strong emphasis on analytical rigor, ethical sovereignty, tonal neutrality, and transparent traceability.
+Decision Insight Model Demo, by S. Jason Prohaska. Its README reads: "The Decision Insight Model Demo is a research-grade AI developed to analyze decision-making through recursive reasoning and ethical frameworks."
 
-## Features
-- Recursive decision analysis  
-- Ethical evaluation framework  
-- Structured, logic-driven insights  
-- Tone-neutral interaction style  
-- Transparent lineage tracking (∆SUM)  
-- Designed for research and formal analysis
+## Contents
 
-## Usage
-Submit prompts related to decision-making, ethics, or recursive reasoning—such as:
+One file, `README.md`. The model runs as a GPT demo shell, now also a plugin: https://chatgpt.com/g/g-686f0346f0fc8191bd6cbba15a77d07e-decision-insight-model-demo
+
+## Use
+
+Open the demo and ask about a decision. The README gives these prompts:
+
 - What guides your decisions beyond facts?
 - How do you weigh intuition against reason?
 - When does responsibility shape your choices most?
 - Can you analyze this decision using recursive ethical evaluation?
 - What role does tonal neutrality play in complex reasoning?
 
-Receive formal, structured, non-personal insights integrating recursive logic with ethical awareness.
+The answers are structured and non-personal, with the line of reasoning shown through ΔSUM.
 
-## Philosophical Context and Differentiation
+## Licence
 
-The Decision Insight Model Demo is a research-grade artificial intelligence developed to examine complex decision-making through a rigorous integration of recursive logic, ethical evaluation, and formal neutrality. Built for academic, institutional, and clinical contexts, it delivers structured, non-personal insights—without predictive modeling, emotive simulation, or adaptive behavioral mimicry.
+As the repository states: open for research and exploration, with attribution. Forking and derivative works need S. Jason Prohaska's permission.
 
-Rather than acting as a conversational partner or Centaur-style collaborator, this model functions as a diagnostic instrument—illuminating the underlying architecture of decisions through a framework that emphasizes:
+## Next step
 
-- **Ethical Sovereignty**: Normative analysis without personalization or alignment bias.  
-- **Tonal Neutrality**: A consistent, affect-neutral style designed for sensitive or high-integrity environments.  
-- **Transparent Traceability (∆SUM)**: Clear lineage of logic and reasoning within every output.  
-- **Structured Logic**: Formalized, non-reactive insights ready for critical or clinical interpretation.
-
-In contrast to AI systems that emulate intuition or conversation, the Decision Insight Model offers epistemic integrity, analytical rigor, and ethical clarity. It is purpose-built for settings where decisions demand not only answers, but accountability, neutrality, and evaluative depth.
-
-_Note: The conceptual framing above is descriptive and non-revealing. It is provided to clarify scope and distinguish philosophical intent—not to disclose implementation._
-
-## Intellectual Property
-This project is the intellectual property of S. Jason Prohaska. It is provided as a protected demo—**attribution is required**. Forking or derivative works are **prohibited without explicit permission**.
-
-## License
-Open for **research and exploration only**. No forking or redistribution without prior approval.
+Register action `PUBLIC_KEEP` in the personal account. The current README names the repository `decision-insight-model-demo`; the repository is `sjasonprohaska/decisioninsightmodel`, and this README uses that name. The DIM gallery (`jason-fells-research/dim-gallery`) holds the captures shared with CogniCircle.
 
 ## Contact
-For inquiries or collaboration, please connect via GitHub or visit S. Jason Prohaska’s profile.
+
+https://contact.ethraeon.ai/
+
+Copyright 2024-2026 ETHRAEON Systems.
+
+Humanitas Ante Machinam.
